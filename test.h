@@ -1,3 +1,3 @@
 #include <string>
 
-void test();
+void test(int bien);
